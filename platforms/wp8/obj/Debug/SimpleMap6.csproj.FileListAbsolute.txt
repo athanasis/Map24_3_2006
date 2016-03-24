@@ -1,0 +1,14 @@
+D:\athanasis\CordovaFiles\SimpleMap6\platforms\wp8\Bin\Debug\ApplicationIcon.png
+D:\athanasis\CordovaFiles\SimpleMap6\platforms\wp8\Bin\Debug\Background.png
+D:\athanasis\CordovaFiles\SimpleMap6\platforms\wp8\Bin\Debug\com.example.SimpleMap6.dll
+D:\athanasis\CordovaFiles\SimpleMap6\platforms\wp8\Bin\Debug\com.example.SimpleMap6.pdb
+D:\athanasis\CordovaFiles\SimpleMap6\platforms\wp8\Bin\Debug\AppManifest.xaml
+D:\athanasis\CordovaFiles\SimpleMap6\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+D:\athanasis\CordovaFiles\SimpleMap6\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+D:\athanasis\CordovaFiles\SimpleMap6\platforms\wp8\obj\Debug\App.g.cs
+D:\athanasis\CordovaFiles\SimpleMap6\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+D:\athanasis\CordovaFiles\SimpleMap6\platforms\wp8\obj\Debug\MainPage.g.cs
+D:\athanasis\CordovaFiles\SimpleMap6\platforms\wp8\obj\Debug\com.example.SimpleMap6.g.resources
+D:\athanasis\CordovaFiles\SimpleMap6\platforms\wp8\obj\Debug\com.example.SimpleMap6.dll
+D:\athanasis\CordovaFiles\SimpleMap6\platforms\wp8\obj\Debug\com.example.SimpleMap6.pdb
+D:\athanasis\CordovaFiles\SimpleMap6\platforms\wp8\obj\Debug\XapCacheFile.xml
